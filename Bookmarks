@@ -1,0 +1,302 @@
+{
+   "checksum": "09be380b76658d0b3c96dceb1e3d3735",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13191955695000000",
+            "guid": "fbcc468d-b3fa-48cb-bd38-a21c950c6dc7",
+            "id": "8",
+            "name": "apps.ithaca.edu",
+            "type": "url",
+            "url": "https://apps.ithaca.edu/"
+         }, {
+            "date_added": "13191955756000000",
+            "guid": "cddadf83-9090-4227-af47-169e30c28f60",
+            "id": "9",
+            "name": "TeamDynamix",
+            "type": "url",
+            "url": "https://ithaca.teamdynamix.com/TDNext/Login.aspx"
+         }, {
+            "date_added": "13126804770000000",
+            "guid": "b9689981-13c1-4931-8afc-3737156f52f6",
+            "id": "10",
+            "name": "Netpass Manager",
+            "type": "url",
+            "url": "https://www.ithaca.edu/passwords"
+         }, {
+            "date_added": "13302365750961446",
+            "guid": "f5ad436b-80fd-4d50-9243-d46f36d96b72",
+            "id": "42",
+            "name": "Home - Microsoft Azure",
+            "type": "url",
+            "url": "https://portal.azure.com/#home"
+         }, {
+            "date_added": "13213385958000000",
+            "guid": "49426094-c128-4333-b82a-2c3bdf632c6d",
+            "id": "12",
+            "name": "Duo Admin",
+            "type": "url",
+            "url": "https://admin.duosecurity.com/login?next=%2F"
+         }, {
+            "date_added": "13129248962000000",
+            "guid": "5319b285-2656-4b5d-af7a-d6b9783ff4df",
+            "id": "13",
+            "name": "Smarthub/Siso",
+            "type": "url",
+            "url": "https://www.ithaca.edu/it/services/loaners/"
+         }, {
+            "date_added": "13129248962000000",
+            "guid": "7543e3a1-423e-402f-83e4-edfb09b1b148",
+            "id": "11",
+            "name": "Knowledge Base",
+            "type": "url",
+            "url": "https://ithaca.teamdynamix.com/TDClient/KB/"
+         }, {
+            "date_added": "13191957579000000",
+            "guid": "43226b52-a4ad-4e8d-b8e8-5a6089723ef8",
+            "id": "14",
+            "name": "Responsibility TDX",
+            "type": "url",
+            "url": "https://ithaca.teamdynamix.com/TDClient/KB/ArticleDet?ID=375"
+         }, {
+            "date_added": "13278785420000000",
+            "guid": "7cba7f80-db5c-4772-899c-f9acfccb3bee",
+            "id": "15",
+            "name": "Toshiba Locations",
+            "type": "url",
+            "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=1131"
+         }, {
+            "date_added": "13256403061000000",
+            "guid": "854b0bec-de8c-4656-a00d-ed1475d3270b",
+            "id": "17",
+            "name": "Onboarding",
+            "type": "url",
+            "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=826"
+         }, {
+            "children": [ {
+               "date_added": "13256403167000000",
+               "guid": "2c83c5e2-f3f4-460d-8026-290550ed7158",
+               "id": "18",
+               "name": "Remote to Lab Computers",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=989"
+            }, {
+               "date_added": "13256403243000000",
+               "guid": "d963d2e8-b363-4d8d-9f18-98d69347fbc7",
+               "id": "19",
+               "name": "VOIP Phone logins",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=1052"
+            }, {
+               "date_added": "13256404392000000",
+               "guid": "6fb510ff-feeb-4319-889a-feaa2085bcef",
+               "id": "20",
+               "name": "Printer Troubleshooting",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=509"
+            }, {
+               "date_added": "13256404413000000",
+               "guid": "1c4ada9f-f899-4cca-92e9-955205d3369e",
+               "id": "21",
+               "name": "Using DUO Admin",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=622"
+            }, {
+               "date_added": "13278785585000000",
+               "guid": "e33d6bce-3a68-4983-9428-d96ede3cef1a",
+               "id": "22",
+               "name": "Bitlocker Recovery",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=1083"
+            }, {
+               "date_added": "13278785682000000",
+               "guid": "db434989-cb18-4c5b-bb5f-5fa3ecea8ed1",
+               "id": "23",
+               "name": "Computing Center",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=1087"
+            }, {
+               "date_added": "13278787779000000",
+               "guid": "784a964c-6caf-42c6-9077-b80bcd1e02ab",
+               "id": "24",
+               "name": "Service Desk Canvas Help (IT)",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=1152"
+            } ],
+            "date_added": "13301072743123268",
+            "date_modified": "0",
+            "guid": "8b71d39c-4cae-486a-a218-3752446e9235",
+            "id": "16",
+            "name": "SD KBAs",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13256404267000000",
+               "guid": "6d98d06d-503b-4829-8383-324ceda7d3b5",
+               "id": "26",
+               "name": "Questions to Ask",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=389"
+            }, {
+               "date_added": "13256404287000000",
+               "guid": "7508004e-4667-4923-9cc2-fce3dada6c66",
+               "id": "27",
+               "name": "Where do things go?",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=375&SIDs=28"
+            }, {
+               "date_added": "13256404364000000",
+               "guid": "68203fb5-1665-4264-a65c-c932d0d96f44",
+               "id": "28",
+               "name": "Clear Cache/Cookies",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=210"
+            }, {
+               "date_added": "13191957343000000",
+               "guid": "7533a7b5-5a13-4830-82a7-869ac1fa5b74",
+               "id": "29",
+               "name": "TDX- Duo FAQ",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/KB/ArticleDet?ID=332"
+            }, {
+               "date_added": "13256404375000000",
+               "guid": "b27ca44a-2d6d-43a2-9ec7-07af2fb4435f",
+               "id": "30",
+               "name": "Can't log in CPUs",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=211"
+            }, {
+               "date_added": "13256404432000000",
+               "guid": "da7841ea-aeb8-4987-a823-21bc5a1bb61d",
+               "id": "31",
+               "name": "Unlocking Accounts ADUC",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=373"
+            }, {
+               "date_added": "13256404457000000",
+               "guid": "1afa9f96-ccc7-4c60-a9df-edca85bf67ee",
+               "id": "32",
+               "name": "Editing tickets",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=707"
+            } ],
+            "date_added": "13301072743123557",
+            "date_modified": "0",
+            "guid": "f567937d-3317-40f0-9fa8-b1a1a9e4281b",
+            "id": "25",
+            "name": "KBAs for New Hires",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13213386034000000",
+               "guid": "ab6d4c15-95be-4cb1-915b-daff98516c26",
+               "id": "34",
+               "name": "Microsoft Teams",
+               "type": "url",
+               "url": "https://login.microsoftonline.com/common/oauth2/authorize?response_type=id_token&client_id=5e3ce6c0-2b1f-4285-8d4b-75ee78787346&redirect_uri=https%3A%2F%2Fteams.microsoft.com%2Fgo&state=320cc8ec-ac71-45ac-9875-76b59eb3a933&client-request-id=0724b74b-8f62-4951-ab21-b358eb94e12d&x-client-SKU=Js&x-client-Ver=1.0.9&nonce=a3617282-1b1d-4f4e-b5fc-0633b2081bf9&domain_hint=&sso_reload=true"
+            }, {
+               "date_added": "13129248962000000",
+               "guid": "f4529499-24fd-4a08-8a35-69ab7382091e",
+               "id": "35",
+               "name": "Request/Incident Response Time quotes",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/KB/ArticleDet?ID=347"
+            }, {
+               "date_added": "13191957281000000",
+               "guid": "4db8b7bd-b10d-4c2e-a700-b9caaa5f1fb3",
+               "id": "36",
+               "name": "Duo Client Portal",
+               "type": "url",
+               "url": "https://www.ithaca.edu/it/services/duo/"
+            }, {
+               "date_added": "13191957137000000",
+               "guid": "576a27bc-9276-48d6-9d2d-0e2bf6e73a5a",
+               "id": "37",
+               "name": "Bomgar",
+               "type": "url",
+               "url": "http://ithaca.bomgarcloud.com/saml"
+            }, {
+               "date_added": "13191956900000000",
+               "guid": "eebb6326-4803-46e2-90a3-b29263d89fbe",
+               "id": "38",
+               "name": "Other Hours",
+               "type": "url",
+               "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=9sga-lReV0ifC0qkIsCWifmL6eTS5QdPjN7rci55m0hUMDVMQVIyT003VE1KSEFGUUIxVEJPREU2Wi4u"
+            }, {
+               "date_added": "13256404323000000",
+               "guid": "b53d3171-5daf-4b12-9e01-9c19e3338136",
+               "id": "39",
+               "name": "Bomgar into Phones",
+               "type": "url",
+               "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=958"
+            }, {
+               "date_added": "0",
+               "guid": "08bcf1d2-778c-4849-bf98-204bf67e7e29",
+               "id": "40",
+               "name": "Papercut Admin",
+               "type": "url",
+               "url": "https://webprint.ithaca.edu/app?service=page/Dashboard"
+            } ],
+            "date_added": "13301072743123786",
+            "date_modified": "0",
+            "guid": "ffa6505e-5f37-43c2-937f-7c4594b15af4",
+            "id": "33",
+            "name": "Other Bookmarks",
+            "type": "folder"
+         }, {
+            "date_added": "13305150815207006",
+            "guid": "801ac034-4f5b-4f1f-8414-2ae4106bbf1a",
+            "id": "44",
+            "name": "Article - TeamDynamix Group (Responsi...",
+            "type": "url",
+            "url": "https://ithaca.teamdynamix.com/TDClient/34/Portal/KB/ArticleDet?ID=375"
+         }, {
+            "date_added": "13305760094597692",
+            "guid": "d7112997-05d7-4b50-9811-2fe09a7e1d23",
+            "id": "46",
+            "name": "Sign in to your account",
+            "type": "url",
+            "url": "https://login.microsoftonline.com/fa1ac8f6-5e54-4857-9f0b-4aa422c09689/saml2?SAMLRequest=hZJRT8MgFIX%2FCuG9LcVuUrLOTI3RRONiqw%2B%2B3TFwLC1MLl38%2BdZui%2Fqij4Tz3cM9h9nFR9eSvQ5ovatonjJKtFN%2Bbd1bRZ%2Bbm0TQi%2FkMoWv5Ti76uHFP%2Br3XGMkAOpSHm4r2wUkPaFE66DTKqGS9eLiXPGVyF3z0yreULBB1iIPVlXfYdzrUOuyt0s9P9xXdxLhDmWU2bkBBuoXOqNb361T5Lvvyyer6kZLrwdw6iOODT0zr36xLO6uCR2%2Bid611egQN5KCEmSYTPSmSQkzOk9KwVVIAFJwrVk5FOU7nlNz4oPS4ZEUNtKgpubuuKBQbs8onU6HMQBrFtzY%2FL4XVW5aLYjuIcAmIdq%2B%2FMcRe3zmM4GJFOeM8YSLhZw1nkguZszRn5Ssly2M0l9YdIv8rx9VBhPK2aZbJ8rFuKHk5VTcI6LEoObqHnw39PRhOtdD5%2FyV0OsIaIsyyn2bz4%2FH3J5l%2FAg%3D%3D&RelayState=%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=VfbtVof74LULfb2TC2eRFjKoDukzuK%2BK1lehq%2F%2BzhOScgfJiHAulq68XhKrkt50DIO5lcwhGmDQcP3bNrZ21kUDFTInNv%2FKbgJJrTougdnK9lek9DZ36h8rwouqzJ1EB4XiW16xI35UwyorvOYldEnAEAQdn%2BxMHKLm3qpQ7zp8J5vHhfLNM0tkpxa7AhXWNlTPnQVmeCadK0Sl2vfcYE%2Fpiy6yUNznTi%2FDAeF2V65PsjL2ZQDsjsmnGIX8PnzfD7oyu8JkBLXSpxTxLZGgtWecGwrJkXJD9bTpZM5ro0YiZVIqPgBA1sJlKNnHSaY90i3ywf2acQov4scFAVorc8w%3D%3D"
+         }, {
+            "date_added": "13305762394406468",
+            "guid": "8bd4fe7d-c43a-4d78-81c5-09dcaa98041a",
+            "id": "48",
+            "name": "Jamf Pro Dashboard*",
+            "type": "url",
+            "url": "https://ithaca.jamfcloud.com/"
+         }, {
+            "date_added": "13305762423198108",
+            "guid": "6b0aa60a-b27a-470a-92ce-0e71c9032972",
+            "id": "49",
+            "name": "Drivers & Downloads | Dell US",
+            "type": "url",
+            "url": "https://www.dell.com/support/home/en-us?app=drivers"
+         } ],
+         "date_added": "13301072245060938",
+         "date_modified": "13305762423198108",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13301072245060943",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13301072245060944",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
