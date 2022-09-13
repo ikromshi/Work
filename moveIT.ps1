@@ -1,1 +1,2 @@
-mv .\Bookmarks "../../../AppData/Local/Google/Chrome/User Data/Default"
+Copy-Item -Path ".\Bookmarks" -Destination "$env:USERPROFILE/AppData/Local/Google/Chrome/User Data/Default" -Recurse -force
+Copy-Item -Path ".\Bookmarks" -Destination "$env:USERPROFILE/AppData/Local/Microsoft/Edge/User Data/Default" -Recurse -force
